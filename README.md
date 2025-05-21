@@ -1,7 +1,7 @@
 # **📊 FMCG Company Sales Report**
 
 ## **📌 Introduction**
-Created this interactive sales dashboard using Tableau [(Click on this link)](https://public.tableau.com/app/profile/raj.sharma3883/viz/FMCGCompanySalesDashboard/Dashboard1?publish=yes) to analyze the performance of an FMCG company across multiple regions, products, and time periods. The dashboard includes key charts such as:
+Created this interactive sales dashboard using Tableau [(Click on this link)](https://public.tableau.com/app/profile/raj.sharma123/viz/FMCGCompanySalesDashboard/Dashboard1?publish=yes) to analyze the performance of an FMCG company across multiple regions, products, and time periods. The dashboard includes key charts such as:
 
 * **📦 Units Sold by Country (Pie Chart)**
 * **🍪 Revenue & Profit by Product (Bar Charts)**
